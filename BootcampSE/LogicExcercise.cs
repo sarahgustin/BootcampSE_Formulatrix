@@ -1,11 +1,5 @@
-﻿using System;
 
-namespace BootcampSE
-{
- class Program
-   {
-       static void Main(string[] args)
-       {
+
         Console.WriteLine("Masukkan Nilai : ");
         int n = Convert.ToInt32(Console.ReadLine());
 
@@ -29,6 +23,3 @@ namespace BootcampSE
                 Console.Write(x + ", ");
             }
         }
-       }
-   }
-}

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BootcampSE
+namespace LogicExercise
 {
  class Program
    {
