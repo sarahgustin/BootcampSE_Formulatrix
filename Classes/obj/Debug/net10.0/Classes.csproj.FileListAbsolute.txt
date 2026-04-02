@@ -1,0 +1,15 @@
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\bin\Debug\net10.0\Classes.exe
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\bin\Debug\net10.0\Classes.deps.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\bin\Debug\net10.0\Classes.runtimeconfig.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\bin\Debug\net10.0\Classes.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\bin\Debug\net10.0\Classes.pdb
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\Classes.AssemblyInfo.cs
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\Classes.sourcelink.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\Classes.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\refint\Classes.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\Classes.pdb
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\Classes.genruntimeconfig.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\Classes\obj\Debug\net10.0\ref\Classes.dll

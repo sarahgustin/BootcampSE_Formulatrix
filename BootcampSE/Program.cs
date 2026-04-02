@@ -5,30 +5,17 @@ namespace BootcampSE
  class Program
    {
        static void Main(string[] args)
-       {
-        Console.WriteLine("Masukkan Nilai : ");
-        int n = Convert.ToInt32(Console.ReadLine());
-
-        for (int x = 1; x <= n; x++)
         {
-            if (x % 3 == 0 && x % 5 == 0)
-            {
-                Console.Write("foobar");
+            //deklarasi array
+            char [] vowels = new char [5] ;// bikin array charater berisi 5 
+            int [] numbers = new int [10]; // bikin array int berisi 10
+            string [] names = new string [7] ;// bikin array string isi 3
 
-            }
-            else if (x % 3 == 0)
-            {
-                Console.Write ("foo, ");
-            }
-            else if (x % 5 == 0)
-            {
-                Console.Write ("bar, ");
-            }
-            else
-            {
-                Console.Write(x + ", ");
-            }
+            //arrrayname.Lenght -> nunjuki jumlah element dalam array
+            Console.WriteLine ($"Array vowel berisikan {vowels.Length} element");
+            Console.WriteLine ($"Array nmbers berisikan {numbers.Length} element");
+            Console.WriteLine ($"Array names berisikan {names.Length} element");
         }
        }
    }
-}
+

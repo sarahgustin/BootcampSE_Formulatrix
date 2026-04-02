@@ -1,0 +1,15 @@
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\bin\Debug\net10.0\BasicLearning.exe
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\bin\Debug\net10.0\BasicLearning.deps.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\bin\Debug\net10.0\BasicLearning.runtimeconfig.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\bin\Debug\net10.0\BasicLearning.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\bin\Debug\net10.0\BasicLearning.pdb
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\BasicLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\BasicLearning.AssemblyInfoInputs.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\BasicLearning.AssemblyInfo.cs
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\BasicLearning.csproj.CoreCompileInputs.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\BasicLearning.sourcelink.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\BasicLearning.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\refint\BasicLearning.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\BasicLearning.pdb
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\BasicLearning.genruntimeconfig.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\BasicLearning\obj\Debug\net10.0\ref\BasicLearning.dll

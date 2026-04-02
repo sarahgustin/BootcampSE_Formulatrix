@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace BootcampSE
+namespace LogicExercise
 {
- class Program
+ class ProgramDay1
    {
        static void Main(string[] args)
        {
