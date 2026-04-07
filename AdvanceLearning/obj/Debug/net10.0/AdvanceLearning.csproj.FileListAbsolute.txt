@@ -1,0 +1,15 @@
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\bin\Debug\net10.0\AdvanceLearning.exe
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\bin\Debug\net10.0\AdvanceLearning.deps.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\bin\Debug\net10.0\AdvanceLearning.runtimeconfig.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\bin\Debug\net10.0\AdvanceLearning.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\bin\Debug\net10.0\AdvanceLearning.pdb
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\AdvanceLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\AdvanceLearning.AssemblyInfoInputs.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\AdvanceLearning.AssemblyInfo.cs
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\AdvanceLearning.csproj.CoreCompileInputs.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\AdvanceLearning.sourcelink.json
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\AdvanceLearning.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\refint\AdvanceLearning.dll
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\AdvanceLearning.pdb
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\AdvanceLearning.genruntimeconfig.cache
+C:\Users\Sarah Gustin\Documents\BootcampSE_Formulatrix\AdvanceLearning\obj\Debug\net10.0\ref\AdvanceLearning.dll
